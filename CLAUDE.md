@@ -57,6 +57,10 @@
 - Do not hardcode config values or constants as if confirmed; mark unknowns as TODO and ask.
 - Run the relevant tests/build before saying a task is done.
 
+## Git Commits
+
+- Before committing, set the repository identity: `git config user.name yujeong` and `git config user.email yujeong9104@gmail.com`.
+
 ## Cloud Sessions
 
 - Start a cloud session with this repository only. Adding the plan repository at session start turns off this repository's hooks.
